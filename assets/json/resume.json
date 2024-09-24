@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Marcus Schultz-Bergin",
-    "label": "Associate College Lecturer in Philosophy, Core Curriculum Director",
+    "title": "Associate College Lecturer in Philosophy, Core Curriculum Director",
     "image": "",
     "email": "m.schultzbergin@csuohio.edu",
 	"phone": "",
     "url": "https://schultzbergin.xyz",
-    "summary": "Social & Political Philosophy, Ethics, Pedagogy",
+    "areas of specialization": "Social & Political Philosophy, Ethics, Pedagogy",
 	"location": {
 		"address": "",
 		"postalCode": "",
@@ -51,29 +51,17 @@
       "highlights": ["2018 and 2019 Recipient of University Teaching Enhancement Awards for high impact revision of highly enrolling courses"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Bowling Green State University",
+      "location": "Bowling Green, OH",
+      "url": "",
+      "area": "Applied Philosophy",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2011",
+      "endDate": "2017",
+      "score": "",
+      "courses": ["Dissertation: Animal Rights in a Diverse Society"], ["Awards: University Research Excellence Award, Department Outstanding Graduate Student Award"]
     }
   ],
   "awards": [
