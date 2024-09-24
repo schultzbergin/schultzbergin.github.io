@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Marcus Schultz-Bergin",
-    "label": "Associate College Lecturer in Philosophy, Core Curriculum Director",
+    "title": "Associate College Lecturer in Philosophy, Core Curriculum Director",
     "image": "",
     "email": "m.schultzbergin@csuohio.edu",
 	"phone": "",
     "url": "https://schultzbergin.xyz",
-    "summary": "Social & Political Philosophy, Ethics, Pedagogy",
+    "specialization": "Social & Political Philosophy, Ethics, Pedagogy",
 	"location": {
 		"address": "",
 		"postalCode": "",
