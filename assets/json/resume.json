@@ -1,11 +1,26 @@
 {
   "basics": {
     "name": "Marcus Schultz-Bergin",
-    "Title": "Associate College Lecturer in Philosophy, Core Curriculum Director",
+    "label": "Associate College Lecturer in Philosophy, Core Curriculum Director",
     "image": "",
     "email": "m.schultzbergin@csuohio.edu",
+	"phone": "",
     "url": "https://schultzbergin.xyz",
-    "Areas of Specialization": "Social & Political Philosophy, Ethics, Pedagogy",
+    "summary": "Social & Political Philosophy, Ethics, Pedagogy",
+	"location": {
+		"address": "",
+		"postalCode": "",
+		"city": "",
+		"countryCode": "",
+		"region": ""
+  },
+  "profiles": [
+  {
+	  "network": "",
+	  "username": "",
+	  "url": ""
+  }
+  ]
   },
   "work": [
     {
@@ -16,7 +31,7 @@
       "endDate": "Present",
       "summary": "Administrative role directing the creation and implementation of the university's core curriculum program, to be launched in Fall 2025",
       "highlights": ["Lead author of the CSU Core Curriculum Handbook, a course design resource for faculty"]
-    }
+    },
 	{
       "name": "Department of Philosophy & Religious Studies, Cleveland State University",
       "position": "Associate College Lecturer",
@@ -25,7 +40,7 @@
       "endDate": "Present",
       "summary": "Teaching courses in political philosophy, philosophy of law, philosophy of mind, logic, and technology ethics",
       "highlights": ["2023 College of Arts & Sciences Jearl D. Walker Outstanding Teaching Award Recipient"]
-    }
+    },
 	{
       "name": "Department of Philosophy & Religious Studies, Cleveland State University",
       "position": "Assistant College Lecturer",
