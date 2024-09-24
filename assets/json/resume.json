@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Marcus Schultz-Bergin",
-    "title": "Associate College Lecturer in Philosophy, Core Curriculum Director",
+    "label": "Associate College Lecturer in Philosophy, Core Curriculum Director",
     "image": "",
     "email": "m.schultzbergin@csuohio.edu",
 	"phone": "",
     "url": "https://schultzbergin.xyz",
-    "areas of specialization": "Social & Political Philosophy, Ethics, Pedagogy",
+    "summary": "Social & Political Philosophy, Ethics, Pedagogy",
 	"location": {
 		"address": "",
 		"postalCode": "",
@@ -61,7 +61,7 @@
       "startDate": "2011",
       "endDate": "2017",
       "score": "",
-      "courses": ["Dissertation: Animal Rights in a Diverse Society"], ["Awards: University Research Excellence Award, Department Outstanding Graduate Student Award"]
+      "courses": ["Dissertation: Animal Rights in a Diverse Society"]
     }
   ],
   "awards": [
