@@ -2,7 +2,7 @@
 layout: page
 title: The Free and Just Society
 description: An introductory course in social-political philosophy
-img: assets/img/12.jpg
+img: assets/img/hobbes.jpg
 importance: 1
 ---
 

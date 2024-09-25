@@ -319,7 +319,7 @@ scholar:
   last_name: [Schultz-Bergin]
   first_name: [Marcus]
 
-  style: apa
+  style: chicago-fullnote-bibliography
   locale: en
 
   source: /_bibliography/
